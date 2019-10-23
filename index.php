@@ -29,7 +29,7 @@
 						<a href="#" class="icon fa-home"><span>Главная</span></a>
 						<a href="#work" class="icon fa-folder"><span>Наши работы</span></a>
 						<a href="#contact" class="icon fa-envelope"><span>Обратная связь</span></a>
-						<a href="https://t.me/Rovshanchik" class="icon fa-telegram"><span>Telegram</span></a>
+						<a href="https://tlgg.ru/Rovshanchik" class="icon fa-telegram"><span>Telegram</span></a>
 					</nav>
 
 				<!-- Main -->
